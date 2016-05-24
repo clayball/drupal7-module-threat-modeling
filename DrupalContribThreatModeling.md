@@ -24,12 +24,36 @@ module.
   - What kind of breach is it?
 
   - Use STRIDE categorization
+   
+     - Spoofing
+    
+     - Tampering
+    
+     - Repudiation
+    
+     - Information Disclosure
+    
+     - Denial of Service
+    
+     - Elevation of Privilege.
 
 
 -  Rank threats
 
   - Use DREAD model to determine risk
-
+    
+      - Score each from 1-10 and take average (1 low risk | 10 high risk)
+    
+         - Damage potential
+        
+         - Reproducibility
+        
+         - Exploitability
+        
+         - Affected users
+        
+         - Discoverability
+    
 
 ##  Determine countermeasures and mitigation
 
