@@ -1,6 +1,6 @@
-# Drupal Contrib Threat Modeling
+# Drupal 7 Module Threat Modeling
 
-This is a general workflow when creating a threat model for a Drupal contrib
+This is a general workflow when creating a threat model for a Drupal 7 contrib
 module.
 
 
