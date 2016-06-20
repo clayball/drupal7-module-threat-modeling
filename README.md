@@ -1,5 +1,7 @@
 # Drupal 7 Module Threat Modeling
 
+**..rough sketch ..  work in progress..**
+
 This is a general workflow when creating a threat model for a Drupal 7 contrib
 module.
 
